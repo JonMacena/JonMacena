@@ -1,6 +1,6 @@
 ## Bem-vinda(o) ao meu perfil aqui no GitHub 💻😎🤘
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Jonathna;Macena)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Prazer+em+ver+você+aqui!;Bem+vindo+ao+meu+perfil!!)](https://git.io/typing-svg)
 
 <div>
   <a href="https://github.com/JonMacena">
