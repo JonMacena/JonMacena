@@ -1,5 +1,7 @@
 ## Bem-vinda(o) ao meu perfil aqui no GitHub 💻😎🤘
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/Jonathan Macena=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 <div>
   <a href="https://github.com/JonMacena">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonMacena&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
