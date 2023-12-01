@@ -1,5 +1,3 @@
-## Bem-vinda(o) ao meu perfil aqui no GitHub 💻😎🤘
-
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Prazer+em+ver+você+aqui!;Bem+vindo+ao+meu+perfil!!)](https://git.io/typing-svg)
 
 <div>
@@ -16,12 +14,10 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Para falar comigo, só clicar aqui em um desses links!! 💻😎🤘
  
 <div> 
   <a href="https://www.linkedin.com/in/jonathan-macena-215172a2/" target"_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   <a href = "mailto:jonathan.o.macena@hotmail.com"><img src="https://img.shields.io/badge/-hotmail-%23333?style=for-the-badge&logo=microsoft&logoColor=white" target="_blank"></a>
- 
-  ![snake gif](https://github.com/JonMacena/JonMacena/blob/output/github-contribution-grid-snake.svg)
 
 </div>
